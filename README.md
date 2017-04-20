@@ -12,7 +12,7 @@
 	* data-sm=""
 	* data-lg=""
 3. You can also pass a mediaQuery parameter that defines at which screen size to swap out the images. The default size is 1023 meaning that the large image will show at 1024 and above and the small image will show at 1023 and below.
-4. 
+
 ##### Full Examples:
 ```html
 <div class="bannerMain"></div>
