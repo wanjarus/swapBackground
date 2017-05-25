@@ -30,8 +30,6 @@ $('.bannerMain').swapBackground({
 ```
 ```javascript
 $('.bannerMain').swapBackground({
-    srcSm: '//placehold.it/600x300',
-    srcLg: '//placehold.it/1900x500',
     mediaQuery: 800
 });
 ```
